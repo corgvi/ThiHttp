@@ -262,6 +262,13 @@ public class MainActivity extends AppCompatActivity {
             }
             return result;
         }
+
+        @Override
+        protected void onPostExecute(String s) {
+            super.onPostExecute(s);
+            HttpGetMoto httpGetMoto = new HttpGetMoto();
+            httpGetMoto.execute(BaseUrl.URL);
+        }
     }
 
 }
