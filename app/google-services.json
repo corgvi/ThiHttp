@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896008984483",
+    "project_id": "thihttp-e3cb5",
+    "storage_bucket": "thihttp-e3cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896008984483:android:4aa5c699905b925ea92c16",
+        "android_client_info": {
+          "package_name": "com.example.thihttp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896008984483-60j30u23chvn4j1a0gf4vbjffobjjult.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thihttp",
+            "certificate_hash": "7b894cb3997f29e5699414cdbb8417a59bd2700c"
+          }
+        },
+        {
+          "client_id": "896008984483-5u5nirt4eo7nop2i574a7j5nitkvsabg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGSQOludUQ0CiaHIED10pEKz93j2FCyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896008984483-5u5nirt4eo7nop2i574a7j5nitkvsabg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
